@@ -22,10 +22,4 @@ The script reads both tables and intelligently fills in the missing data in the 
 - [pandas](https://pandas.pydata.org/) – Data analysis and manipulation
 - [openpyxl](https://openpyxl.readthedocs.io/en/stable/) – Read/write Excel 2010 xlsx/xlsm files
 
-## 🛠️ Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/excel-table-data-filler.git
-   cd excel-table-data-filler
